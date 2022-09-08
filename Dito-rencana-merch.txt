@@ -7,4 +7,6 @@ RENCANA MERCH DITO
 -stiker
 -keychain
 -baju
+ *GI
+ *OC
 -komis
