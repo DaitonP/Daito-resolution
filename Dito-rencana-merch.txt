@@ -1,6 +1,9 @@
 RENCANA MERCH DITO
 
 -poster
+  *AL
+  *AK
+  *GI
 -stiker
 -baju
 -komis
